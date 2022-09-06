@@ -1,8 +1,13 @@
+*{
+  box-sizing: border-box;
+}
+
 @media only screen and (max-width: 768px){
     .about-us{
         padding: 10px;
-      }
 
+      }
+font-size: 10px;
 }
 
 
